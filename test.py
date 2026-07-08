@@ -4,4 +4,4 @@ if (username=="admin" and password=="1234"):
     print("Login Successful")
 else:
     if username!="admin":
-        print("Invalid Username")
+        print("Invalid Username - Try again.")
